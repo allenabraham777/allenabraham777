@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/allenabraham777?label=Github&logo=Github&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/allenabraham777?color=blue&label=Twitter&logo=twitter&style=flat-square)
+
 <!--
 **allenabraham777/allenabraham777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/allenabraham777)
