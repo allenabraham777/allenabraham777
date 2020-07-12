@@ -1,6 +1,9 @@
-### Hi there 👋
-
 ![GitHub followers](https://img.shields.io/github/followers/allenabraham777?label=Github&logo=Github&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/allenabraham777?color=blue&label=Twitter&logo=twitter&style=flat-square)
+
+# Hi, I'm Allen
+
+Full Stack Developer | Hacker
+
 
 <!--
 **allenabraham777/allenabraham777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
