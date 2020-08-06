@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/allenabraham777)
+<!-- [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/allenabraham777)
+-->
